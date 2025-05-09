@@ -8,18 +8,17 @@ gain deeper insights into patient profiles, improve diagnosis support, and uncov
 ## Dataset Used
 <a href=https://github.com/blessingajidahun/Cancer-Patients-in-UAE-Data-Analysis/blob/main/_cancer_dataset_uae%20(1).csv>Dataset</a>
 ## Tools
-Python
-Matplotlib
-Seaborn
-Numpy
-Pandas
-Scikit-learn
-Jupyter notebook
-Data Cleaning
-In the data preparation phase, the following activities were performed;
+- Python
+- Matplotlib
+- Seaborn
+- Numpy
+- Pandas
+- Scikit-learn
+- Jupyter noteboo
 
-Data loading
-Data Validation
-Data cleaning
-Handling Missing Values
-Exploratory Data Analysis (EDA)
+###In the data preparation phase, the following activities were performed;
+- Data loading
+- Data Validation
+- Data cleaning
+- Handling Missing Values
+- Exploratory Data Analysis (EDA)
