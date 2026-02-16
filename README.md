@@ -1,9 +1,9 @@
 # Cancer Patients in UAE Data Analysis - Data Analysis and Predictive Modeling
-## 📌 Executive Summary
+## Executive Summary
 This project analyzes cancer patient data from the UAE to uncover demographic and clinical patterns and to build predictive models for cancer stage classification.
 Through exploratory data analysis and machine learning modeling, the project identifies key factors associated with advanced cancer stages and evaluates multiple classification algorithms to determine the most effective predictive model.
 
-## 🎯 Problem Statement
+## Problem Statement
 Healthcare systems benefit from early identification of high-risk cancer patients.
 This project aims to:
 Identify demographic and lifestyle patterns among cancer patients in the UAE
@@ -21,18 +21,27 @@ Provide data-driven insights that could support early intervention strategies
 - Treatment type
 - Cancer stage
 - Other clinical variables
+
 The dataset was cleaned and preprocessed before analysis.
-## Dataset Used
-<a href=https://github.com/blessingajidahun/Cancer-Patients-in-UAE-Data-Analysis/blob/main/_cancer_dataset_uae%20(1).csv>Dataset</a>
-## Tools
+## Tools & Technologies
 - Python
+- Pandas
+- NumPy
 - Matplotlib
 - Seaborn
-- Numpy
-- Pandas
 - Scikit-learn
-- Jupyter noteboo
+- XGBoost
+## Dataset Used
+<a href=https://github.com/blessingajidahun/Cancer-Patients-in-UAE-Data-Analysis/blob/main/_cancer_dataset_uae%20(1).csv>Dataset</a>
+## Data Cleaning & Preprocessing
+### Key preprocessing steps included:
+- Handling missing values
+- Encoding categorical variables
+- Removing duplicates
+- Feature scaling
+- Train-test split
 
+This ensured model robustness and reproducibility.
 ### In the data preparation phase, the following activities were performed;
 - Data loading
 - Data Validation
