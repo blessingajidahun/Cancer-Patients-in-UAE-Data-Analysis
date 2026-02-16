@@ -42,12 +42,14 @@ The dataset was cleaned and preprocessed before analysis.
 - Train-test split
 
 This ensured model robustness and reproducibility.
-### In the data preparation phase, the following activities were performed;
-- Data loading
-- Data Validation
-- Data cleaning
-- Handling Missing Values
-- Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
+Key patterns observed:
+- Cancer stage distribution across age groups
+- Smoking status correlation with advanced stages
+- BMI trends among different patient categories
+- Treatment type distribution
+
+(Insert 2–3 exported chart images here)
 
 EDA was performed in order to identify trends, patterns, and relationships. The following EDA were performed:
 - Analysis of recovery rates over the years
