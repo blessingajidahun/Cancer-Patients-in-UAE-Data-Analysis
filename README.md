@@ -42,15 +42,7 @@ The dataset was cleaned and preprocessed before analysis.
 - Train-test split
 
 This ensured model robustness and reproducibility.
-## Exploratory Data Analysis (EDA)
-Key patterns observed:
-- Cancer stage distribution across age groups
-- Smoking status correlation with advanced stages
-- BMI trends among different patient categories
-- Treatment type distribution
-
-(Insert 2–3 exported chart images here)
-
+## Exploratory Data Analysis
 EDA was performed in order to identify trends, patterns, and relationships. The following EDA were performed:
 - Analysis of recovery rates over the years
 - Analysis of recovery rate per cancer type
