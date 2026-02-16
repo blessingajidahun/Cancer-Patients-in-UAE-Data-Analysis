@@ -14,13 +14,13 @@ Provide data-driven insights that could support early intervention strategies
 - Source: Public healthcare dataset (UAE cancer patients)
 - Records: (Insert number of rows)
 - Features include:
--- Age
--- Gender
--- BMI
--- Smoking status
--- Treatment type
--- Cancer stage
--- Other clinical variables
+- Age
+- Gender
+- BMI
+- Smoking status
+- Treatment type
+- Cancer stage
+- Other clinical variables
 The dataset was cleaned and preprocessed before analysis.
 ## Dataset Used
 <a href=https://github.com/blessingajidahun/Cancer-Patients-in-UAE-Data-Analysis/blob/main/_cancer_dataset_uae%20(1).csv>Dataset</a>
